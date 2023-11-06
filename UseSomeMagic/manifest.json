@@ -1,0 +1,10 @@
+﻿{
+    "Name": "UseSomeMagic",
+    "Author": "<your name>",
+    "Version": "1.0.0",
+    "Description": "Who knows",
+    "UniqueID": "AutoshiK.UseSomeMagic",
+    "EntryDll": "UseSomeMagic.dll",
+    "MinimumApiVersion": "3.0.0",
+    "UpdateKeys": []
+}
